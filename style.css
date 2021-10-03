@@ -16,17 +16,17 @@ body{
 }
 
 h2,.white{
-    color: black;
+    color: teal;
 }
 
 a{
-    color: black;
+    color: teal;
     text-decoration: none;
     
 }
 /* section 1 */
 .section-1{
-    padding-top: 40vh;
+    padding-top: 30vh;
     text-align: center;
 }
 
@@ -47,7 +47,7 @@ a{
 }
 /* section 2 */
 .section-2{
-    padding-top: 10vh;
+    padding-top: 0vh;
     width: 70%;
 }
 
